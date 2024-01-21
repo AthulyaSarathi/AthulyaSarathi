@@ -21,17 +21,17 @@
 </p>
    
    <br>
-<!--    <h4 align="center"> 📚 Technologies</h4>
+   <h4 align="center"> 📚 Technologies</h4>
    <p align="center">
-     <img align="center" alt="bootstrap" width="auto" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img align="center" alt="tmux" width="auto" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
+     <img align="center" alt="Tableu" width="auto" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+<!--       <img align="center" alt="tmux" width="auto" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
       <img align="center" alt="git" width="auto" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
       <img align="center" alt="redis" width="auto" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
       <img align="center" alt="razorpay" width="auto" src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" />
       <img align="center" alt="aws" width="auto" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img align="center" alt="githubactions" width="auto" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+      <img align="center" alt="githubactions" width="auto" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> -->
 </p>
-<br> -->
+<br>
 <h4 align="center"> 💾 Databases</h4>
    <p align="center">
    <img align="center" alt="mysql" width="auto" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
